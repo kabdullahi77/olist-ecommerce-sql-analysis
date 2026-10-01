@@ -1,0 +1,3 @@
+customer_type,total_customers,pct_of_total_customers,total_orders_placed,total_revenue,avg_lifetime_value
+One-Time Buyer,90556,97.0,90556,14558104.56,160.76
+Repeat Buyer,2801,3.0,5921,864357.21,308.59
